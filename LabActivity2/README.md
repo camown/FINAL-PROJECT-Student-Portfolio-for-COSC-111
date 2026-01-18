@@ -2,15 +2,7 @@
 
 # Group Information and Grade
 
-**Leader** 
-- Jaye Dar Talili
-  
-**Members**
-- Emanuel Lloyd Dagdag --  83
-- Kyle Andrei Escauriaga -- 82
-- Christian Lapidez -- 85
-- John Paul Fidelson -- 84
-
+This script introduces PWM (Pulse Width Modulation). Instead of just turning LEDs on or off, it uses nested loops and analogWrite to gradually increase and decrease the brightness (0 to 255) of 5 LEDs, creating a fading or "breathing" effect.
 
 # Reference / Citation / Generative AI Citation
 - Tool Used: ChatGPT
