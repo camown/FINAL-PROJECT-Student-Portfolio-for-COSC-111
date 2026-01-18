@@ -1,15 +1,7 @@
-Laboratory Activity #5: Receiving serial connection using Arduino from Python
+Lab Activity 4: Serial Input & String Processing
 
-# Group Information and Grade
 
-**Leader** 
-- Emanuel Lloyd Dagdag
-  
-**Members**
-- John Paul Fidelson -- 
-- Kyle Andrei Escauriaga -- 
-- Christian Lapidez --
-- Jaye Dar Talili -- 
+This activity focuses on Serial Communication. It monitors temperature like the previous lab, but it adds a feature where the user can type commands (specifically the word "stop") into the Serial Monitor to manually disable the blinking LED alert.
 
 
 
