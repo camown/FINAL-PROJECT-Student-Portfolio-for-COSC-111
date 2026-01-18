@@ -1,16 +1,6 @@
 # Laboratory Activity #5: Receiving serial connection using Arduino from Python
 
-# Group Information and Grade
-
-**Leader** 
-- Emanuel Lloyd Dagdag
-  
-**Members**
-- John Paul Fidelson -- 
-- Kyle Andrei Escauriaga -- 
-- Christian Lapidez --
-- Jaye Dar Talili -- 
-
+This lab shifts control to the computer. The Arduino acts as a receiver, waiting for single-letter commands ('R', 'G', 'B', 'A') to toggle specific LEDs. While the Python Script provides a menu on your computer screen for you to select which LED to turn on, demonstrating how external software can control hardware.
 
 
 
