@@ -1,16 +1,7 @@
 # Laboratory Activity #1: Working with Digital Signals 
 
-# Group Information and Grade
 
-**Leader** 
-- John Paul Fidelson
-  
-**Members**
-- Emanuel Lloyd Dagdag -- 97
-- Kyle Andrei Escauriaga -- 92
-- Christian Lapidez -- 100
-- Jaye Dar Talili -- 93
-
+An activity that defines an array of 5 LEDs and turns them all High (On) and then Low (Off) in a simple sequence. It demonstrates how to control multiple digital outputs simultaneously.
 
 # Reference / Citation
 <img width="596" height="476" alt="image" src="https://github.com/user-attachments/assets/ff2851ae-4873-4d5a-9e25-9571ddd6e668" />
